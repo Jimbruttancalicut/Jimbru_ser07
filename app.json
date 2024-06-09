@@ -1,5 +1,5 @@
 {
-    "name": "BADBOY BY BADBOY MODER",
+    "name": "Jimbru_ser07 BY Jimbru_ser07 MODER",
     "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
@@ -13,7 +13,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 917907xxxxxx (indian number +91)",
             "required": false
         },
         "LANGUAGE": {
@@ -206,7 +206,7 @@
         "GAN_IMAGE": {
             "description": "Gan Style eklentisi için resim bağlantısı yazın. Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://i.hizliresim.com/loUtAb.jpg"
+            "value": "jimbru_ser.jpg"
         },
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
@@ -229,4 +229,4 @@
     "buildpacks": [{
       "url": "heroku-community/apt"
       }]
-  }
+    }
