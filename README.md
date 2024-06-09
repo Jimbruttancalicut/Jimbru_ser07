@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="Jimbru_ser07" width="170" height="170"/>
+  <img border-radius: 15px src="jimbru_ser.jpg" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="jimbru_ser" src="https://img.shields.io/badge/Jimbruttancalicut-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
