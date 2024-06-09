@@ -1,105 +1,73 @@
-## Thanks for Everything 
-### We will always remember you..
-
-<div align="center">
-  <img border-radius: 15px src="jimbru_ser.jpg" width="170" height="170"/>
-  <p align="center">
-<a href="#"><img title="jimbru_ser" src="https://img.shields.io/badge/Jimbruttancalicut-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://github.com/Jimbruttancalicut"><img title="Author" src="https://img.shields.io/badge/Author-Jimbruttancalicut/Jimbru_ser07?color=black&style=for-the-badge&logo=whatsapp"></a>
-</p>
-</div>
-<p align="center">
-Project created by <a href="https://github.com/Jimbruttancalicut">Jimbruttancalicut</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
-</p>
-
-----
-
-  <p align="center">
-  <a href="https://github.com/Jimbruttancalicut/Jimbru_ser07 ">
-    <img src="https://img.shields.io/github/repo-size/Jimbruttancalicut/Jimbru_ser07?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/Jimbruttancalicut/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jimbruttancalicut?color=red&style=flat-circle"></a>
-<a href="https://github.com/Jimbruttancalicut/Jimbru_ser07/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jimbruttancalicut/Jimbru_ser07?color=red&style=flat-square"></a>
-<a href="https://github.com/Jimbruttancalicut/Jimbru_ser07/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jimbruttancalicut/Jimbru_ser07?color=red&style=flat-square"></a>
-<a href="https://github.com/Jimbruttancalicut/Jimbru_ser07/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jimbruttancalicut/Jimbru_ser07?label=Watchers&color=red&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-
-```
+# _Jimbru_ser07-multi-device_
+## _Multi device whatsapp bot created with [Baileys](https://github.com/whiskeysockets/Baileys)_
   
-Jimbru_ser07 - Jimbru_ser07 Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
-
-
-## Setup
-<div align="center">
-
-  ### Simple Method
-
 <div align="center">
    
-<a href="https://Jimbru_ser07.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jimbruttancalicut/Jimbru_ser07)
-     </div>
+## _Note: Use a VPN according to the server you choose if the session logs out automatically._
 <br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+
+<div align="center">
+
+## Deploy to Heroku ↓
+
+<a href="https://github.com/sou6av/deploy-raganork/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+<a href="https://raganork-network.vercel.app/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+
+## Deploy to Koyeb ↓
+
+<a href="https://raganork-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+<div>
+  <br>
+
+
+## Deploy to Railway ↓
+#### (No setvar command, must set vars manually from settings)
+<a href="https://railway.app/template/Mt-g4a" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
+  <div>
+<br>
+<div>
+  <br>
+
+## Deploy in VPS [linux] ↓
+<div align="left">
+
 ```
-bash <(curl -L https://t.ly/tHxh)
-``` 
+1. Install nodejs, git, ffmpeg
+2. npm i -g yarn pm2
+3. git clone https://github.com/souravkl11/raganork-md && cd raganork-md
+4. yarn install --ignore-engines --network-concurrency 1
+5. vi config.env
+6. Enter your session there in format 'SESSION=your_session_here'
+7. Press ctrl+c, then type ':wq' and press enter
+8. npm start
 
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
-
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
-
-### ⚠️ Warning! 
+Now the bot will start working
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-  
-## Developers
-  <div align="center">
-    
-  [[![Jimbruttancalicut](https://github.com/Jimbruttancalicut.png?size=100)](https://github.com/Jimbruttancalicut) 
 
-[Jimbruttancalicut](https://github.com/Jimbruttancalicut)
+<div align="center">
 
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
+## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
 
+## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
 
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
+<div align="left">
 
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+# Note
+
+I can't guarantee or can be held responsible if you get blocked or banned by using this software. WhatsApp does not allow bots using unofficial methods on their platform, so this shouldn't be considered totally safe. 
+
+# Legal
+
+-   This code is in no way affiliated, authorized, maintained, sponsored or endorsed by WA (WhatsApp) or any of its affiliates or subsidiaries.
+-   The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+-   This is an independent and unofficial software Use at your own risk.
