@@ -52,7 +52,12 @@ the user is responsible.
 <div align="center">
 
   ### Simple Method
- [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+
+<div align="center">
+   
+<a href="https://Jimbru_ser07.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+
+</div>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jimbruttancalicut/Jimbru_ser07)
      </div>
