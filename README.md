@@ -2,16 +2,16 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="jimbru_ser.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="Jimbru_ser07" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="jimbru_ser" src="https://img.shields.io/badge/BADBMODER-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="jimbru_ser" src="https://img.shields.io/badge/Jimbruttancalicut-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/BADBMODER"><img title="Author" src="https://img.shields.io/badge/Author-BADBMODER/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Jimbruttancalicut"><img title="Author" src="https://img.shields.io/badge/Author-Jimbruttancalicut/Jimbru_ser07?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make it public
+Project created by <a href="https://github.com/Jimbruttancalicut">Jimbruttancalicut</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,18 +21,18 @@ Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/BADBMODER/Badboy ">
-    <img src="https://img.shields.io/github/repo-size/BADBMODER/Badboy?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Jimbruttancalicut/Jimbru_ser07 ">
+    <img src="https://img.shields.io/github/repo-size/Jimbruttancalicut/Jimbru_ser07?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/BADBMODER/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBMODER?color=red&style=flat-circle"></a>
-<a href="https://github.com/BADBMODER/Badboy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBMODER/Badboy?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Jimbruttancalicut/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jimbruttancalicut?color=red&style=flat-circle"></a>
+<a href="https://github.com/Jimbruttancalicut/Jimbru_ser07/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jimbruttancalicut/Jimbru_ser07?color=red&style=flat-square"></a>
+<a href="https://github.com/Jimbruttancalicut/Jimbru_ser07/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jimbruttancalicut/Jimbru_ser07?color=red&style=flat-square"></a>
+<a href="https://github.com/Jimbruttancalicut/Jimbru_ser07/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jimbruttancalicut/Jimbru_ser07?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
   
-Badboy - Badboy Userbot is Open Source software open to development. 
+Jimbru_ser07 - Jimbru_ser07 Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -54,7 +54,7 @@ the user is responsible.
   ### Simple Method
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BADBMODER/Badboy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jimbruttancalicut/Jimbru_ser07)
      </div>
 <br>
 <br >
@@ -85,9 +85,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![BADBMODER](https://github.com/BADBMODER.png?size=100)](https://github.com/BADBMODER) 
+  [[![Jimbruttancalicut](https://github.com/Jimbruttancalicut.png?size=100)](https://github.com/Jimbruttancalicut) 
 
-[BADBMODER](https://github.com/BADBMODER)
+[Jimbruttancalicut](https://github.com/Jimbruttancalicut)
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
