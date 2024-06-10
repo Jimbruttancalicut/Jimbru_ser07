@@ -1,73 +1,35 @@
-# _Jimbru_ser07-multi-device_
-## _Multi device whatsapp bot created with [Baileys](https://github.com/whiskeysockets/Baileys)_
-  
-<div align="center">
+# Jimbru_ser07
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌟Hi+jimbru_ser🌟;I'M+Jimbru_ser07;ENJOY+WHATSAPP+BOT+WITH+PREMIUM-FEATURES🚀;🤟🏽WITH+BEST+FEATURES🔥;CREATED+BY+JIMBRU-SER+THANKS)](https://git.io/typing-svg)
+</p>
+
+---
+<p align="left">
+    <img alt="Jimbru_ser07 docs" height="450" src="https://i.imgur.com/6Myxvw9.jpeg">
+  </a>
+</p>
+
+### GET SESSION_ID 
+<left>
+<a href="https://github.com/Jimbruttancalicut/Jimbru_ser07/fork"><img title="Jimbru_ser07" src="https://img.shields.io/badge/FORK Jimbru_ser07-h?color=blue&style=for-the-badge&logo=msi"></a>  
+ 
+ <a href="https://zax-35f9ce6e2804.herokuapp.com/"><img title="SESSION ID" src="https://img.shields.io/badge/CONNECT TO SERVER -h?color=blue&style=for-the-badge&logo=msi"></a>
+
+## DEPLOYMENT METHOD
+<a href="https://heroku.com/deploy?template=https://github.com/Jimbruttancalicut/Jimbru_ser07"><img title="Jimbru_ser07 Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=blue&style=for-the-badge&logo=heroku"></a> 
+
+<a href='https://repl.it/github/Jimbruttancalicut/Jimbru_ser07' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY REPLIT-blue?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+<a href='https://railway.app/new/template/sRBrec' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY RAILWAY -h?color=blue&style=for-the-badge&logo=railway'/></a>
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY RENDER -h?color=blue&style=for-the-badge&logo=render'/></a>
+
+<a href='https://www.koyeb.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY KEYOB -h?color=blue&style=for-the-badge&logo=koyeb'/></a>
+
+ ### SUPPORT CHANNEL
+<a href="https://whatsapp.com/channel/0029VaZlD9sHltY52Bg1Vy2k"><img title="Jimbru_ser07 Deploy Glitch" src="https://img.shields.io/badge/WHATSAPP CHANNEL-h?color=blue&style=for-the-badge&logo=whatsapp"></a>
    
-<a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
-
-</div>
-
-## _Note: Use a VPN according to the server you choose if the session logs out automatically._
-<br>
-
-<div align="center">
-
-## Deploy to Heroku ↓
-
-<a href="https://github.com/sou6av/deploy-raganork/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<a href="https://raganork-network.vercel.app/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-
-## Deploy to Koyeb ↓
-
-<a href="https://raganork-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<div>
-  <br>
-
-
-## Deploy to Railway ↓
-#### (No setvar command, must set vars manually from settings)
-<a href="https://railway.app/template/Mt-g4a" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
-  <div>
-<br>
-<div>
-  <br>
-
-## Deploy in VPS [linux] ↓
-<div align="left">
-
-```
-1. Install nodejs, git, ffmpeg
-2. npm i -g yarn pm2
-3. git clone https://github.com/souravkl11/raganork-md && cd raganork-md
-4. yarn install --ignore-engines --network-concurrency 1
-5. vi config.env
-6. Enter your session there in format 'SESSION=your_session_here'
-7. Press ctrl+c, then type ':wq' and press enter
-8. npm start
-
-Now the bot will start working
-```
-
-<div align="center">
-
-## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
-
-## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
-
-<div align="left">
-
-# Note
-
-I can't guarantee or can be held responsible if you get blocked or banned by using this software. WhatsApp does not allow bots using unofficial methods on their platform, so this shouldn't be considered totally safe. 
-
-# Legal
-
--   This code is in no way affiliated, authorized, maintained, sponsored or endorsed by WA (WhatsApp) or any of its affiliates or subsidiaries.
--   The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
--   This is an independent and unofficial software Use at your own risk.
+### NOTICE
+- *Jimbru_ser07-Bot is not made by `WhatsApp Inc.`  Misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use Jimbru_ser07-Bot at your own risk by keeping this warning in mind.*
