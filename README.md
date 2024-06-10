@@ -1,6 +1,6 @@
 # Jimbru_ser07
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌟Hi+jimbru_ser🌟;I'M+Jimbru_ser07;ENJOY+WHATSAPP+BOT+WITH+PREMIUM-FEATURES🚀;🤟🏽WITH+BEST+FEATURES🔥;CREATED+BY+JIMBRU-SER+THANKS)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌟Hi+Mwone🌟;I'M+Jimbru_ser07;ENJOY+WHATSAPP+BOT+WITH+PREMIUM-FEATURES🚀;🤟🏽WITH+BEST+FEATURES🔥;CREATED+BY+JIMBRU-SER+THANKS)](https://git.io/typing-svg)
 </p>
 
 ---
