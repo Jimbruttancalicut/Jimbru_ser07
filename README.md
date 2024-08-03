@@ -11,9 +11,9 @@
 
 ### GET SESSION_ID 
 <left>
-<a href="https://github.com/Jimbruttancalicut/Jimbru_ser07/fork"><img title="Jimbru_ser07" src="https://img.shields.io/badge/FORK Jimbru_ser07-h?color=blue&style=for-the-badge&logo=msi"></a>  
+<a href="https://github.com/Jimbruttancalicut/Jimbru_ser07/fork"><img title="Jimbru_ser07" src="https://pp.shields.io/badge/FORK Jimbru_ser07-h?color=blue&style=for-the-badge&logo=msi"></a>  
  
- <a href="session link"><img title="SESSION ID" src="https://img.shields.io/badge/CONNECT TO SERVER -h?color=blue&style=for-the-badge&logo=msi"></a>
+ <a href="session link"><img title="SESSION ID" src="https://pp.shields.io/badge/CONNECT TO SERVER -h?color=blue&style=for-the-badge&logo=msi"></a>
 
 ## DEPLOYMENT METHOD
 <a href="https://heroku.com/deploy?template=https://github.com/Jimbruttancalicut/Jimbru_ser07"><img title="Jimbru_ser07 Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=blue&style=for-the-badge&logo=heroku"></a> 
