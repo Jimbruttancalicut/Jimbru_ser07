@@ -26,8 +26,8 @@
 
 <a href='https://www.koyeb.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY KEYOB -h?color=blue&style=for-the-badge&logo=koyeb'/></a>
 
- ### SUPPORT CHANNEL
-<a href="https://whatsapp.com/channel/0029VaZlD9sHltY52Bg1Vy2k"><img title="Jimbru_ser07 Deploy Glitch" src="https://img.shields.io/badge/WHATSAPP CHANNEL-h?color=blue&style=for-the-badge&logo=whatsapp"></a>
+ ### OWNER NUMBER
+<a href="https://wa.me/917907518599"><img title="Jimbru_ser07 Deploy Glitch" src="https://img.shields.io/badge/OWNER NUMBER-h?color=red&style=for-the-badge&logo=whatsapp"></a>
    
 ### NOTICE
 - *Jimbru_ser07-Bot is not made by `WhatsApp Inc.`  Misusing the bot might `ban` your `WhatsApp account!`*
